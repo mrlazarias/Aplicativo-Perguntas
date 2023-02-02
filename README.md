@@ -1,2 +1,2 @@
 # Aplicativo-Perguntas
-Primeiro aplicativo em Flutter 
+Primeiro aplicativo criado em Flutter  
